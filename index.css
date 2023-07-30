@@ -1,0 +1,502 @@
+.background-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-linen);
+  width: 1280px;
+  height: 2013px;
+}
+.background-inner,
+.background-item,
+.vector-icon {
+  position: absolute;
+  top: 661px;
+  left: 348px;
+  width: 652px;
+  height: 5px;
+}
+.background-inner,
+.vector-icon {
+  top: 1006.5px;
+}
+.vector-icon {
+  top: 1621.5px;
+}
+.background-child1,
+.rectangle-div {
+  position: absolute;
+  top: 54px;
+  left: 846px;
+  background-color: var(--color-sandybrown-200);
+  width: 314px;
+  height: 21px;
+}
+.background-child1 {
+  top: 145px;
+  left: 908px;
+  width: 252px;
+}
+.span {
+  color: var(--color-black);
+}
+.d-artist,
+.designer {
+  position: absolute;
+  display: inline-block;
+  height: 71px;
+}
+.designer {
+  top: 0;
+  left: 844px;
+  font-size: 60px;
+  width: 393px;
+}
+.d-artist {
+  top: 96px;
+  left: 922px;
+  font-size: var(--font-size-29xl);
+  width: 288px;
+}
+.background-child2,
+.background-child3 {
+  position: absolute;
+  top: 703px;
+  left: 74px;
+  background-color: var(--color-sandybrown-200);
+  width: 261px;
+  height: 21px;
+}
+.background-child3 {
+  top: 334px;
+  left: 784px;
+  width: 144px;
+}
+.div {
+  position: absolute;
+  top: 64px;
+  left: 844px;
+  font-size: 90px;
+  font-family: var(--font-luxurious-roman);
+  color: var(--color-sandybrown-100);
+  display: inline-block;
+  width: 128px;
+  height: 122px;
+}
+.group-child {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  background-color: var(--color-sandybrown-200);
+  width: 224px;
+  height: 21px;
+}
+.project {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  display: inline-block;
+  width: 284px;
+  height: 74px;
+}
+.rectangle-parent,
+.software {
+  position: absolute;
+  top: 1010px;
+  left: 74px;
+  width: 292px;
+  height: 74px;
+  font-size: var(--font-size-29xl);
+}
+.software {
+  top: 670px;
+  display: inline-block;
+  width: 284px;
+}
+.phm-tin-t {
+  font-family: var(--font-meera-inimai);
+}
+.ti-l-phm-container {
+  position: absolute;
+  top: 330px;
+  left: 731px;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 429px;
+  height: 280px;
+  font-family: var(--font-luxurious-roman);
+}
+.avyt-icon,
+.hello {
+  position: absolute;
+  top: 0;
+  left: 209px;
+  width: 500px;
+  height: 500px;
+}
+.hello {
+  top: 436px;
+  left: 119px;
+  font-size: 128px;
+  font-family: var(--font-luckiest-guy);
+  display: inline-block;
+  width: 405px;
+  height: 111px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.background-child4,
+.background-child5,
+.background-child6,
+.ellipse-div {
+  position: absolute;
+  top: 797px;
+  left: 276px;
+  border-radius: 50%;
+  background-color: var(--color-indianred);
+  width: 127px;
+  height: 127px;
+}
+.background-child4,
+.background-child5,
+.background-child6 {
+  left: 491px;
+  background-color: var(--color-darkcyan);
+}
+.background-child5,
+.background-child6 {
+  left: 913px;
+  background-color: var(--color-chocolate);
+}
+.background-child6 {
+  left: 716px;
+  background-color: var(--color-darkcyan);
+}
+.background-child10,
+.background-child7,
+.background-child8,
+.background-child9 {
+  position: absolute;
+  top: 756px;
+  left: 306px;
+  background-color: var(--color-linen);
+  width: 66px;
+  height: 94px;
+}
+.background-child10,
+.background-child8,
+.background-child9 {
+  left: 483px;
+  width: 106px;
+  height: 107px;
+}
+.background-child10,
+.background-child9 {
+  left: 891px;
+  width: 180px;
+}
+.background-child10 {
+  left: 698px;
+  width: 161px;
+}
+.p {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.bu-bng-bn {
+  margin: 0;
+}
+.phamtiendatsjcgmailcom-bu-container {
+  position: absolute;
+  top: 470px;
+  left: 247px;
+  font-size: var(--font-size-2xl);
+  font-family: var(--font-luxurious-roman);
+  color: var(--color-black);
+  display: inline-block;
+  width: 331px;
+  height: 133px;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-100);
+  width: 98px;
+  height: 98px;
+}
+.zbrush {
+  position: absolute;
+  top: 35px;
+  left: 7px;
+  display: inline-block;
+  width: 162px;
+  height: 40px;
+}
+.ellipse-parent,
+.maya {
+  position: absolute;
+  top: 811px;
+  left: 290px;
+  width: 169px;
+  height: 98px;
+}
+.maya {
+  top: 35px;
+  left: 15px;
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+}
+.ellipse-group {
+  position: absolute;
+  top: 811px;
+  left: 507px;
+  width: 98px;
+  height: 98px;
+  color: var(--color-darkcyan);
+}
+.pts {
+  position: absolute;
+  top: 35px;
+  left: 25px;
+  display: inline-block;
+  width: 56px;
+  height: 40px;
+}
+.ellipse-container {
+  position: absolute;
+  top: 811px;
+  left: 731px;
+  width: 98px;
+  height: 98px;
+  color: #2ca5b8;
+}
+.ai,
+.group-div {
+  position: absolute;
+}
+.ai {
+  top: 35px;
+  left: 34px;
+  display: inline-block;
+  width: 47px;
+  height: 40px;
+}
+.group-div {
+  top: 811px;
+  left: 928px;
+  width: 98px;
+  height: 98px;
+  color: var(--color-chocolate);
+}
+.background-child11,
+.gmail {
+  position: absolute;
+  display: none;
+}
+.background-child11 {
+  top: 1649px;
+  left: 790px;
+  border-radius: 50%;
+  background-color: var(--color-sandybrown-100);
+  width: 78px;
+  height: 78px;
+}
+.gmail {
+  top: 1678px;
+  left: 801px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  width: 67px;
+  height: 28px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 292px;
+  height: 74px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-indianred);
+}
+.ellipse-icon,
+.fb,
+.gmail1 {
+  position: absolute;
+  top: 112px;
+  left: 252px;
+  width: 86px;
+  height: 189.5px;
+}
+.fb,
+.gmail1 {
+  top: 142px;
+  left: 280.5px;
+  display: inline-block;
+  width: 32px;
+  height: 25px;
+}
+.gmail1 {
+  top: 247.5px;
+  left: 263.5px;
+  width: 67px;
+  height: 28px;
+}
+.httpswwwfacebookcom,
+.phamtiendatsjcgmail {
+  position: absolute;
+  top: 139px;
+  left: 372px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 269px;
+  height: 49px;
+}
+.phamtiendatsjcgmail {
+  top: 247px;
+}
+.group-child4 {
+  position: absolute;
+  top: -3px;
+  left: -1px;
+  width: 86px;
+  height: 86px;
+}
+.httpswwwinstagramcom,
+.insta {
+  position: absolute;
+  top: 29.5px;
+  left: 12.5px;
+  display: inline-block;
+  width: 53px;
+  height: 32px;
+}
+.httpswwwinstagramcom {
+  top: 23.5px;
+  left: 119px;
+  text-decoration: underline;
+  color: inherit;
+  width: 292px;
+  height: 49px;
+}
+.group-parent,
+.vector-parent {
+  position: absolute;
+  top: 0;
+  left: 253px;
+  width: 411px;
+  height: 78px;
+}
+.group-parent {
+  top: 1665px;
+  left: 51px;
+  width: 664px;
+  height: 296.5px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.background-child12 {
+  position: absolute;
+  top: 1077px;
+  left: 101px;
+  border-radius: 50%;
+  width: 146px;
+  height: 146px;
+  object-fit: cover;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 1231px;
+  left: 138px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 75px;
+  height: 34px;
+}
+.div2,
+.div3,
+.div4 {
+  top: 1375px;
+  left: 450px;
+  width: 92px;
+  height: 22px;
+}
+.div3,
+.div4 {
+  top: 1295px;
+  left: 751px;
+  height: 16px;
+}
+.div4 {
+  top: 1057px;
+  left: 1009px;
+  height: 27px;
+}
+.premium-psd-sport-shoes-sale,
+.ti-xung-3-1 {
+  position: absolute;
+  top: 1089px;
+  left: 963px;
+  width: 154px;
+  height: 206px;
+  object-fit: cover;
+}
+.premium-psd-sport-shoes-sale {
+  top: 1199px;
+  left: 370px;
+  width: 94px;
+  height: 168px;
+}
+.anatomy-practice-pavel-protas,
+.posters-for-social-media-platf {
+  position: absolute;
+  top: 1152px;
+  left: 481px;
+  width: 90px;
+  height: 159px;
+  object-fit: cover;
+}
+.anatomy-practice-pavel-protas {
+  top: 1352px;
+  left: 674px;
+  width: 237px;
+  height: 203px;
+}
+.background-child13 {
+  position: absolute;
+  top: 1321.42px;
+  left: 211px;
+  width: 197px;
+  height: 97.81px;
+}
+.background-child14 {
+  position: absolute;
+  top: 1306.55px;
+  left: 544.25px;
+  width: 173.25px;
+  height: 81.92px;
+}
+.background-child15 {
+  position: absolute;
+  top: 1067.25px;
+  left: 845.98px;
+  width: 131.02px;
+  height: 251.76px;
+}
+.background {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2013px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-indianred);
+  font-family: var(--font-kumar-one);
+}
